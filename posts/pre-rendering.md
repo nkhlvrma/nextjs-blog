@@ -1,11 +1,8 @@
 ---
-title: 'Two Forms of Pre-rendering'
-date: '2020-01-01'
+title: 'Test Blog'
+date: '2023-05-17'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+This is test blog.
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
-
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+- **Another fascinating area of exploration** is the study of the human mind and consciousness. With advances in neuroscience and psychology, researchers are making exciting new discoveries about how our brains work, how we perceive the world around us, and how we form our identities and make decisions. From studying the effects of meditation and mindfulness on mental health, to exploring the mysteries of dreams and altered states of consciousness, to developing new therapies for treating mental illness, the study of the mind and consciousness is a rapidly evolving field with endless possibilities for new insights and discoveries. By understanding more about the workings of our own minds, we can better navigate the complexities of the world and improve our overall well-being.
